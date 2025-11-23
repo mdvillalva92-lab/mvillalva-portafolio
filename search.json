@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Expertise",
+    "section": "",
+    "text": "My professional profile combines technical engineering precision with strategic business operations management."
+  },
+  {
+    "objectID": "skills.html#competency-framework",
+    "href": "skills.html#competency-framework",
+    "title": "Skills & Expertise",
+    "section": " Competency Framework",
+    "text": "Competency Framework\n\n\n Core Strengths (Business)\nFocus: Operations & Strategy\n\nOperations Management: Process mapping, SOP design, Lean thinking, and service quality improvement (ISO 9001).\nHealthcare Operations: Patient-centered workflows, biomedical equipment lifecycle management, and safety standards.\nProject Management: Scope planning, WBS, risk management, and stakeholder alignment.\n\n\n\n Technical Tools (Data)\nFocus: Analytics & Engineering\n\nData & BI: Excel (Advanced/Macros), Pivot Tables, Tableau, basic SQL.\nCloud Computing: AWS S3, EC2, Glue, DataBrew, Athena (Learning Path).\nDocumentation & Web: Quarto, Markdown, GitHub Pages.\nEngineering Software: MATLAB (Signal Processing), AutoCAD.\n\n\n\n\n\n\n\n Certifications & Training\n\n\n\nAWS Cloud Practitioner / Foundations (In Progress)\n\n\nLean / Six Sigma Methodologies\n\n\nPMI / Project Management Training\n\n\nISO 9001:2015 Internal Auditor - SGS Ecuador"
+  },
+  {
+    "objectID": "skills.html#publications-research",
+    "href": "skills.html#publications-research",
+    "title": "Skills & Expertise",
+    "section": " Publications & Research",
+    "text": "Publications & Research\nMy background in Biomedical Engineering includes rigorous scientific research using Machine Learning for environmental risk management.\n\nAutomatic Detection Systems (Cotopaxi Volcano)\nPublished in DYNA (Revista Facultad Nacional de Minas), 2017.\n\nSummary: Co-authored a study developing a supervised classification algorithm to distinguish between volcanic and non-volcanic seismic events. We utilized Wavelet decomposition and Decision Trees to achieve 99% accuracy, contributing to risk management strategies.\n\nCitation: Lara-Cueva, R., Paillacho-Salazar, V., & Villalva-Chaluisa, M. (2017). Towards an automatic detection system of signals at Cotopaxi volcano. DYNA, 84(200), 176-184.\n  Read Full Paper \n\n\n\nMachine Learning with SVM (IEEE)\nPublished in IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 2017.\n\nSummary: Applied advanced machine learning techniques (Support Vector Machines) to classify complex seismic signals. This research demonstrated how computational models can automate the monitoring of critical natural phenomena with high precision.\n\nCitation: Lara-Cueva, R., Benítez, D. S., Paillacho, V., Villalva, M., & Rojo-Álvarez, J. L. (2017). On the use of multi-class support vector machines for classification of seismic signals at Cotopaxi volcano. IEEE ROPEC.\n  View at IEEE Xplore"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Operational excellence requires more than just data; it requires clinical context. The following case studies illustrate my work with renal care facilities, where I aligned medical safety standards with business efficiency to reduce downtime and ensure ISO 9001 compliance."
+  },
+  {
+    "objectID": "projects.html#villamedica-clinical-process-optimization",
+    "href": "projects.html#villamedica-clinical-process-optimization",
+    "title": "Projects & Case Studies",
+    "section": "Villamedica: Clinical Process Optimization",
+    "text": "Villamedica: Clinical Process Optimization\n\n\nSCOPE: Process standardization and quality improvement for renal service operations.\nKEY ACHIEVEMENTS:\n\nKPI Design: Implemented monitoring routines for equipment reliability and patient safety metrics.\nCompliance: Supported alignment with ISO 9001:2015 quality standards, preparing the facility for external audits.\nWorkflow: Redesigned operational documentation to reduce errors and improve staff onboarding.\n\nFocus: Quality Assurance, Process Mapping, Safety.\n\n\n\n\n\nConsulting and quality improvement work at Villamedica"
+  },
+  {
+    "objectID": "projects.html#renalcoca-risk-mitigation-resource-strategy",
+    "href": "projects.html#renalcoca-risk-mitigation-resource-strategy",
+    "title": "Projects & Case Studies",
+    "section": "Renalcoca: Risk Mitigation & Resource Strategy",
+    "text": "Renalcoca: Risk Mitigation & Resource Strategy\n\n\n\n\n\nOperations assessment and process review at Renalcoca\n\n\n\n\nSCOPE: Operational assessment and improvement roadmap for dialysis support processes.\nKEY ACHIEVEMENTS:\n\nRisk Management: Evaluated critical risks affecting service continuity and proposed mitigation strategies.\nResource Optimization: Recommended adjustments in maintenance schedules and inventory management to reduce downtime.\nQuality Review: Supported the leadership team in reviewing clinical and administrative quality protocols.\n\nFocus: Risk Assessment, Inventory Management, Operations Strategy."
+  },
+  {
+    "objectID": "projects.html#sgh-bed-management-system",
+    "href": "projects.html#sgh-bed-management-system",
+    "title": "Projects & Case Studies",
+    "section": "SGH Bed Management System",
+    "text": "SGH Bed Management System\n\nCapacity Planning & Patient Flow Optimization\nContext: A tertiary hospital faced bottlenecks in bed allocation, leading to ER overcrowding.\n\nMy Contribution: Modeled patient demand, discharge constraints, and surge scenarios using data simulation.\nOutcome: Proposed new triage rules and coordination protocols expected to reduce bed turnover time.\nTools: Excel modeling, Queuing Theory, Process Mapping.\n\n\n\n\n\n\n\nflowchart LR\n  A[Patient Arrival] --&gt; B{Triage Rules}\n  B --&gt;|Standard Flow| C[Bed Assignment]\n  B --&gt;|Overcrowding| D[Surge Protocol]\n  C --&gt; E(Treatment)\n  D --&gt; E\n  E --&gt; F[Discharge Process]\n  style D fill:#f3e5f5,stroke:#7952b3,stroke-width:2px\n  style B fill:#f3e5f5,stroke:#7952b3,stroke-width:2px\n\n\n Flow optimization model"
+  },
+  {
+    "objectID": "projects.html#digital-transformation-in-pharma-pfizer-case",
+    "href": "projects.html#digital-transformation-in-pharma-pfizer-case",
+    "title": "Projects & Case Studies",
+    "section": "Digital Transformation in Pharma: Pfizer Case",
+    "text": "Digital Transformation in Pharma: Pfizer Case\n\nPharmacovigilance Automation with Atlassian Rovo\nContext: Designed a digital transformation prototype for Pfizer’s pharmacovigilance unit to manage adverse event reports.\nMy Contribution:\n\nJira Automation: Configured a Kanban workflow to track adverse events (e.g., Anaphylaxis, Cold Chain failures).\nAI Implementation: Programmed Atlassian Rovo Agents to analyze issue descriptions and automatically assign severity levels.\nCompliance: Created rules for auto-generating regulatory closure reports using Generative AI.\n\nOutcome: A fully functional simulation reducing manual triage time and ensuring standardized ISO/FDA compliance documentation.\nTools: Jira Automation, Atlassian Intelligence, Rovo Agents."
+  },
+  {
+    "objectID": "projects.html#llm-benchmarking-in-healthcare-operations",
+    "href": "projects.html#llm-benchmarking-in-healthcare-operations",
+    "title": "Projects & Case Studies",
+    "section": "LLM Benchmarking in Healthcare Operations",
+    "text": "LLM Benchmarking in Healthcare Operations\n\nComparative Analysis of AI Models for Hospital Decision-Making\nContext: Evaluated the reliability of Large Language Models (LLMs) for supporting operational decisions in government hospitals, focusing on bias and ethical alignment.\nMy Contribution:\n\nExperimental Design: Created a framework comparing Human expert responses against 4 major LLMs (ChatGPT-4, Gemini, Claude, Llama) across 10 operational scenarios.\nEthical Auditing: Specifically assessed cultural sensitivity (Indigenous inclusion) and safety biases in procurement and resource allocation.\nStatistical Analysis: Analyzed volatility and accuracy, finding that Claude and Gemini offered the highest stability in LLM.\n\nOutcome: Recommended a Hybrid Governance Model where AI augments but does not replace human oversight in critical patient safety decisions.\nTools: Prompt Engineering, Comparative Analysis, Statistical Reporting\n\n\n\n Scientific Research\n\n\nInterested in my technical publications on Machine Learning & Seismic Signal Detection?\n\n View Publications in Skills →"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF Resume"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": " Professional Summary",
+    "text": "Professional Summary\n\nHealthcare Operations & Analytics Specialist focused on delivering operational excellence through rigorous data analysis and process standardization. specialized in Quality Management Systems (QMS), predictive maintenance, and strategic planning for high-performance clinical environments."
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": " Professional Experience",
+    "text": "Professional Experience\n\nInventory & Logistics Specialist\nBloomstar | Vancouver, Canada | Sep 2025 – Present\n\nInventory Accuracy: Achieved 100% accuracy in stock management through strict rotation protocols.\nWaste Reduction: Reduced product waste by 5% by optimizing backroom organization and visual merchandising standards.\nCollaboration: Partnered with an 8-member team to resolve stock issues and ensure compliance.\n\n\n\nOperations Manager\nNefromedic | Quito, Ecuador | Sep 2023 – Dec 2024\n\nService Quality: Implemented process improvements raising client satisfaction to 90%.\nData Analytics: Developed Excel-based dashboards increasing KPI visibility by 90% for executive decisions.\nCompliance: Ensured strict adherence to ISO 9001:2015 standards for successful audits.\n\n\n\nMaintenance Supervisor\nNefromedic | Quito, Ecuador | Jul 2019 – Sep 2023\n\nReliability: Achieved 90% compliance with preventive maintenance plans for biomedical equipment.\nStandardization: Standardized maintenance procedures under ISO 9001:2015.\nLeadership: Trained and supervised a team of 3 technicians.\n\n\n\nVolunteer Data Analyst\nUniversity of Armed Forces | Ecuador | 2013 - 2015\n\nResearch: Conducted statistical analysis of seismic datasets using MATLAB.\nImpact: Contributed to 3 scientific publications on seismic signal classification.\n\n\n\n\n\n Education\nMBA in Business Analytics University Canada West (Exp. 2026)\nM.Sc. Biomedical Engineering ESPOL, Ecuador (2021)\nB.Sc. Electronics & Telecom. University of Armed Forces ESPE (2016)\n\n\n Key Skills & Certs\nCertifications\n\nAWS Cloud Foundation (In Progress)\nExcel Essential Training (2025)\nInternal Auditor ISO 9001 (2023)\n\nTechnical Tools\n\nExcel (Advanced), Power BI, Tableau\nMATLAB, SQL Basics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michelle Villalva",
+    "section": "",
+    "text": "Email\n  \n  \n      LinkedIn\n  \n  \n      Resume\n  \n\n      \nI am an MBA candidate and Electronics Engineer specializing in healthcare operations, data analytics, and process optimization. My experience leading clinical centers has strengthened my ability to drive data-based improvements and implement sustainable initiatives.\n\n  View Case Studies    Core Skills \n\n\n    \n    \n  \n\n\n\n\n\n\nHealthcare Operations  Clinical workflow optimization & patient safety protocols (ISO 9001)\n\n\n\nData Analytics  Transforming raw data into strategic insights using Excel, SQL & BI tools\n\n\n\nBusiness Strategy  Bridging the gap between engineering precision and business efficiency\n\n\n\n\n “Leading change through systems that serve people.”   — Michelle V.\n\n\n\n\n\n\n Back to top"
+  }
+]
